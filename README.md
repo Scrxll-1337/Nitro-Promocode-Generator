@@ -13,9 +13,7 @@ You can star the project to support me. Thank you
 - Need a proxy
 - No third party apis
  
-# Contact:
 
-Discord: 840571988102873090
 
 
   
